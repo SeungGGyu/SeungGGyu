@@ -26,8 +26,6 @@
 
 ### ✨ Experience
 
----
-
 | Period | Affiliation | Role |
 |--------|-------------|------|
 | 2024.06 ~ | DDUA Lab @ SeoulTech | Undergraduate Researcher |
@@ -35,8 +33,6 @@
 ---
 
 ### 🚀 Projects
-
----
 
 | PERIOD | TITLE | DESCRIPTION |
 |--------|-------|-------------|
