@@ -2,7 +2,7 @@
 
 ### 💁🏻‍♂️ About Me
 
-- B.S. in Industrial Information System Engineering, Seoul National University of Science & Technology 2020.03 ~ 2026.02
+- B.S. in Industrial Information System Engineering, Seoul National University of Science & Technology(2020.03 ~ 2026.02)
 - Undergraduate Researcher @ DDUA Lab (Data-Driven User Analysis Lab)  
 
 ### 🔎 Interests
