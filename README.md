@@ -26,19 +26,19 @@
 
 ### ✨ Experience
 
-| Period | Affiliation | Role |
-|--------|-------------|------|
-| 2024.06 ~ | DDUA Lab @ SeoulTech | Undergraduate Researcher |
+| PERIOD     | AFFILIATION             | ROLE                     |
+|------------|--------------------------|--------------------------|
+| 2024.06 ~  | DDUA Lab @ SeoulTech     | Undergraduate Researcher |
 
----
 
 ### 🚀 Projects
 
-| PERIOD | TITLE | DESCRIPTION |
-|--------|-------|-------------|
-| 2025.03 ~        | Luxury Car UX Scenario Tool | Industry-academia collaboration with Hyundai Motor Company |
-| 2024.06 ~ 08     | Mirae Asset AI·Data Festival | Proposal for a Customer-Facing Financial Service Using HyperCLOVAX  |
-| 2024.06 ~ 09     | 4th KOPIS Big Data Contest | ML-based ticket cancellation prediction + overbooking strategy using the newsvendor model |
-| 2024.04 ~ 06     | Set Menu Recommendation System | Built a rule-based model to recommend menus using association rules |
-| 2024.04 ~ 06     | Disaster Message Filter | Developed an ML model to reduce citizen fatigue from disaster alerts |
+| PERIOD       | TITLE                          | DESCRIPTION                                                                 |
+|--------------|--------------------------------|------------------------------------------------------------------------------|
+| 2025.03 ~    | Luxury Car UX Scenario Tool    | Industry-academia collaboration with Hyundai Motor Company                  |
+| 2024.06 ~ 08 | Mirae Asset AI·Data Festival   | Proposal for a Customer-Facing Financial Service Using HyperCLOVA X        |
+| 2024.06 ~ 09 | 4th KOPIS Big Data Contest     | ML-based ticket cancellation prediction + overbooking strategy (newsvendor)|
+| 2024.04 ~ 06 | Set Menu Recommendation System | Rule-based menu recommendation using association rules                      |
+| 2024.04 ~ 06 | Disaster Message Filter        | ML model to reduce citizen fatigue from excessive disaster alerts           |
+
 
