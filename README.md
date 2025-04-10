@@ -1,26 +1,19 @@
 # 🙌 Seung Gyu Lee 🙌
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/SeungGGyu&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/SeungGGyu)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tmdrb0120@naver.com)
-
----
-
 ## 💁🏻‍♂️ About Me
 
-🎓 B.S. in Industrial Information System Engineering, Seoul National University of Science & Technology (GPA 4.04/4.5)  
-🧠 Undergraduate Researcher @ DDUA Lab (Data-Driven User Analysis Lab)  
-🛠 Tech Stack: Python, R, SQL, PyTorch, Pandas, NumPy
+- B.S. in Industrial Information System Engineering, Seoul National University of Science & Technology (GPA 4.04/4.5)  
+- Undergraduate Researcher @ DDUA Lab (Data-Driven User Analysis Lab)  
 
-> "I turn data into insight, and insight into impact."
 
 ---
 
 ## 🔎 Interests
 
-- 🧠 Self-supervised Learning  
-- ⏳ Time Series Analysis  
-- 🧩 Multimodal Learning  
-- 📊 Data Mining & AI Competitions  
+- Self-supervised Learning  
+- Time Series Analysis  
+- Multimodal Learning  
+- Data Mining & AI Competitions  
 
 ---
 
