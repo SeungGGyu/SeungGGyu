@@ -38,7 +38,7 @@
 
 | Period         | Title                         | Description                                                                  |
 |----------------|-------------------------------|-------------------------------------------------------------------------------|
-| 2025.03~     | Luxury Car UX Scenario Tool   | Industry-academia collaboration with Hyundai Motor Company                   |
+| 2025.03 ~     | Luxury Car UX Scenario Tool   | Industry-academia collaboration with Hyundai Motor Company                   |
 | 2024.06~08   | Mirae Asset AI·Data Festival  | Proposal for a customer-facing financial service using HyperCLOVA X         |
 | 2024.06~09   | 4th KOPIS Big Data Contest     | ML-based ticket cancellation prediction + overbooking strategy (newsvendor) |
 | 2024.04~06   | Set Menu Recommendation System| Rule-based menu recommendation using association rules                       |
