@@ -14,17 +14,14 @@
 
 ### 🏆 Awards & Competitions
 
-🥇 `[1st Place] in 2025 Winter Deep Learning Industry-Academia Bootcamp` (Jan. 2025)  
-Task: Developed deep learning models through industrial collaboration and real-world datasets.  
-🔗 [Repo link](https://github.com/SeungGGyu/2025-Winter-Deep-Learning-Industry-Academia-Bootcamp)
+🥈 `[2st Place] in 2025 Winter Deep Learning Industry-Academia Bootcamp` (Jan. 2025)  
+Task: Developed deep learning models through industrial collaboration and real-world datasets. [Repo link](https://github.com/SeungGGyu/2025-Winter-Deep-Learning-Industry-Academia-Bootcamp)
 
 🥉 `[Private 3rd / 584] in Real Estate Fraudulent Listing Classification Hackathon (Dacon)` (Mar. 2025)  
-Task: Built a machine learning model to detect fraudulent real estate listings using structured/tabular data.  
-🔗 [Competition link](https://dacon.io/competitions/open/236439/overview/description)
+Task: Built a machine learning model to detect fraudulent real estate listings using structured/tabular data. [Competition link](https://dacon.io/competitions/open/236439/overview/description)
 
 🥇 `[Top Award] in 2024 Nowon-gu Youth Big Data Utilization Contest` (Oct. 2024)  
-Task: Proposed an MCLP-based solution for improving public access to midnight pharmacies.  
-🔗 [Repo link](https://github.com/SeungGGyu/Nowon-2024-Youth-Big-Data-Contest)
+Task: Proposed an MCLP-based solution for improving public access to midnight pharmacies. [Repo link](https://github.com/SeungGGyu/Nowon-2024-Youth-Big-Data-Contest)
 
 
 ### ✨ Experience
@@ -49,7 +46,3 @@ Task: Proposed an MCLP-based solution for improving public access to midnight ph
 | 2024.04 ~ 06     | Set Menu Recommendation System | Built a rule-based model to recommend menus using association rules |
 | 2024.04 ~ 06     | Disaster Message Filter | Developed an ML model to reduce citizen fatigue from disaster alerts |
 
-
-
-
-> 💡 Tip: 이 README는 `SeungGGyu/README.md` 에 넣으면 GitHub 프로필에 자동 노출됩니다!
