@@ -14,11 +14,19 @@
 
 ### 🏆 Awards & Competitions
 
-| 🏅 | Title | Description |
-|----|-------|-------------|
-| 🏅 | **Private 3rd / 584** | Real Estate Fraudulent Listing Classification Hackathon (Dacon, 2025) |
-| 🥈 | **2nd Place** | 2025 Winter Deep Learning Industry-Academia Bootcamp |
-| 🥇 | **Top Award** | 2024 Nowon-gu Youth Big Data Utilization Contest |
+🥇 `[1st Place] in 2025 Winter Deep Learning Industry-Academia Bootcamp` (Jan. 2025)  
+Task: Developed deep learning models through industrial collaboration and real-world datasets.  
+🔗 [Repo link]([https://github.com/SeungGGyu/ai-industry-bootcamp](https://github.com/SeungGGyu/2025-Winter-Deep-Learning-Industry-Academia-Bootcamp))
+
+🥉 `[Private 3rd / 584] in Real Estate Fraudulent Listing Classification Hackathon (Dacon)` (Mar. 2025)  
+Task: Built a machine learning model to detect fraudulent real estate listings using structured/tabular data.
+🔗 [link]([[https://github.com/SeungGGyu/nowon-bigdata-contest](https://github.com/SeungGGyu/Nowon-2024-Youth-Big-Data-Contest](https://dacon.io/competitions/open/236439/overview/description)))
+
+https://dacon.io/competitions/open/236439/overview/description
+🥇 `[Top Award] in 2024 Nowon-gu Youth Big Data Utilization Contest` (Oct. 2024)  
+Task: Proposed an MCLP-based solution for improving public access to midnight pharmacies.  
+🔗 [Repo link]([https://github.com/SeungGGyu/nowon-bigdata-contest](https://github.com/SeungGGyu/Nowon-2024-Youth-Big-Data-Contest))
+
 
 
 ### ✨ Experience
