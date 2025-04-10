@@ -2,7 +2,7 @@
 
 ### 💁🏻‍♂️ About Me
 
-- B.S. in Industrial Information System Engineering, Seoul National University of Science & Technology (GPA 4.04/4.5)  
+- B.S. in Industrial Information System Engineering, Seoul National University of Science & Technology 2020.03 ~ 2026.02
 - Undergraduate Researcher @ DDUA Lab (Data-Driven User Analysis Lab)  
 
 ### 🔎 Interests
@@ -10,7 +10,7 @@
 - Self-supervised Learning  
 - Time Series Analysis  
 - Multimodal Learning  
-- Data Mining & AI Competitions  
+- Data Analysis Contests & AI Competitions  
 
 ### 🏆 Awards & Competitions
 
@@ -38,7 +38,7 @@
 | PERIOD | TITLE | DESCRIPTION |
 |--------|-------|-------------|
 | 2025.03 ~        | Luxury Car UX Scenario Tool | Industry-academia collaboration with Hyundai Motor Company |
-| 2024.06 ~ 08     | Mirae Asset AI·Data Festival | Proposed a financial service using HyperCLOVA X |
+| 2024.06 ~ 08     | Mirae Asset AI·Data Festival | Proposal for a Customer-Facing Financial Service Using HyperCLOVAX  |
 | 2024.06 ~ 09     | KOPIS Big Data Contest | ML-based ticket cancellation prediction + overbooking strategy using the newsvendor model |
 | 2024.04 ~ 06     | Set Menu Recommendation System | Built a rule-based model to recommend menus using association rules |
 | 2024.04 ~ 06     | Disaster Message Filter | Developed an ML model to reduce citizen fatigue from disaster alerts |
