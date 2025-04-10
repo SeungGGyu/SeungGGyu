@@ -28,21 +28,21 @@
 
 | Period           | Affiliation                        | Role                         |
 |------------------|-------------------------------------|------------------------------|
-| 2024.06 -        | DDUA Lab @ SeoulTech               | Undergraduate Researcher     |
-| 2023.05 - 2023.12| Daewon International Middle School | Middle School Math Tutor     |
+| 2024.06 ~        | DDUA Lab @ SeoulTech               | Undergraduate Researcher     |
+| 2023.05 ~ 2023.12| Daewon International Middle School | Middle School Math Tutor     |
 
 
 
 
 ### 🚀 Projects
 
-| Period             | Title                         | Description                                                                  |
-|--------------------|-------------------------------|-------------------------------------------------------------------------------|
-| 2025.03 –          | Luxury Car UX Scenario Tool   | Industry-academia collaboration with Hyundai Motor Company                   |
-| 2024.06 – 2024.08  | Mirae Asset AI·Data Festival  | Proposal for a customer-facing financial service using HyperCLOVA X         |
-| 2024.06 – 2024.09  | 4th KOPIS Big Data Contest     | ML-based ticket cancellation prediction + overbooking strategy (newsvendor) |
-| 2024.04 – 2024.06  | Set Menu Recommendation System| Rule-based menu recommendation using association rules                       |
-| 2024.04 – 2024.06  | Disaster Message Filter        | ML model to reduce citizen fatigue from excessive disaster alerts            |
+| Period         | Title                         | Description                                                                  |
+|----------------|-------------------------------|-------------------------------------------------------------------------------|
+| 2025.03 ~      | Luxury Car UX Scenario Tool   | Industry-academia collaboration with Hyundai Motor Company                   |
+| 2024.06 ~ 08   | Mirae Asset AI·Data Festival  | Proposal for a customer-facing financial service using HyperCLOVA X         |
+| 2024.06 ~ 09   | 4th KOPIS Big Data Contest     | ML-based ticket cancellation prediction + overbooking strategy (newsvendor) |
+| 2024.04 ~ 06   | Set Menu Recommendation System| Rule-based menu recommendation using association rules                       |
+| 2024.04 ~ 06   | Disaster Message Filter        | ML model to reduce citizen fatigue from excessive disaster alerts            |
 
 
 
