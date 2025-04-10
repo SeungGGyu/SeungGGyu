@@ -15,7 +15,7 @@
 ### 🏆 Awards & Competitions
 
 🥈 `[2st Place] in 2025 Winter Deep Learning Industry-Academia Bootcamp` (Jan. 2025)  
-| Task: Developed deep learning models through industrial collaboration and real-world datasets. [Repo link](https://github.com/SeungGGyu/2025-Winter-Deep-Learning-Industry-Academia-Bootcamp)
+| Task: Development of a Fine-grained Multi-Class Image Classification Deep Learning Model. [Repo link](https://github.com/SeungGGyu/2025-Winter-Deep-Learning-Industry-Academia-Bootcamp)
 
 🥉 `[Private 3rd / 584] in Real Estate Fraudulent Listing Classification Hackathon (Dacon)` (Mar. 2025)  
 | Task: Built a machine learning model to detect fraudulent real estate listings using structured/tabular data. [Competition link](https://dacon.io/competitions/open/236439/overview/description)
