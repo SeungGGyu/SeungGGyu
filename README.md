@@ -26,9 +26,11 @@
 
 ### ✨ Experience
 
-| Period      | Affiliation             | Role                     |
-|-------------|--------------------------|--------------------------|
-| 2024.06 ~   | DDUA Lab @ SeoulTech     | Undergraduate Researcher |
+| Period           | Affiliation                        | Role                         |
+|------------------|-------------------------------------|------------------------------|
+| 2024.06 ~        | DDUA Lab @ SeoulTech               | Undergraduate Researcher     |
+| 2024.08 ~ 2024.10| Daewon International Middle School | Middle School Math Tutor     |
+
 
 
 
