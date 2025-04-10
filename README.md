@@ -1,14 +1,12 @@
 # 🙌 Seung Gyu Lee 🙌
-
-## 💁🏻‍♂️ About Me
+# 💁🏻‍♂️ About Me
 
 - B.S. in Industrial Information System Engineering, Seoul National University of Science & Technology (GPA 4.04/4.5)  
 - Undergraduate Researcher @ DDUA Lab (Data-Driven User Analysis Lab)  
 
-
 ---
 
-## 🔎 Interests
+#🔎 Interests
 
 - Self-supervised Learning  
 - Time Series Analysis  
