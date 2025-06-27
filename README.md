@@ -29,7 +29,7 @@
 | Period           | Affiliation                            | Role                         |
 |------------------|-----------------------------------------|------------------------------|
 | 2025.06 ~ 2025.12 | INTERX (GenAI R&D Team)                | Data Scientist Intern        |
-| 2024.06 ~ 2025.06 | DDUA Lab @ SeoulTech                   | Undergraduate Researcher     |
+| 2024.06 ~ 2025.06 | SeoulTech @ DDUA Lab                   | Undergraduate Researcher     |
 | 2023.05 ~ 2023.12 | Daewon International Middle School     | Middle School Math Tutor     |
 
 
