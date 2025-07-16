@@ -14,7 +14,7 @@
 
 ### 🏆 Awards & Competitions
 
-🥉 `[Private 3rd / 584] in Real Estate Fraudulent Listing Classification Hackathon (Dacon)` (Mar. 2025)  
+🥉 `[3rd Place] in Real Estate Fraudulent Listing Classification Hackathon (Dacon)` (Mar. 2025)  
 | Task : Built a machine learning model to detect fraudulent real estate listings using structured/tabular data. [Competition link](https://dacon.io/competitions/open/236439/overview/description)
 
 🥈 `[2st Place] 2025 Winter Deep Learning Industry-Academia Bootcamp` (Jan. 2025)  
